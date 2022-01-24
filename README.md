@@ -1,8 +1,8 @@
 <div align=center>
 
-<img alt="Yuan Sun" src="./assets/avatar.png" width=100 />
+<img alt="Yuan Liang" src="https://cdn.yuanki.cn/baseInfo/anyway.jpg" width=100 />
 
-# Hi, this is Yuan :wave:
+# Hi, this is Yuan Liang :wave:
 
 <p>
 
@@ -82,6 +82,3 @@ I love Front End technologys. :heart:
 ![](https://github-profile-trophy.vercel.app/?username=syy11cn&theme=flat&column=7&margin-w=10)
 
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=57290456)
-# koa_server
