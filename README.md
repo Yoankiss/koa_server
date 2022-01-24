@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="Yuan Liang" src="https://cdn.yuanki.cn/baseInfo/anyway.jpg" width=100 />
+<img alt="Yuan Liang" src="./public/images/anyway.jpg" width=100 />
 
 # Hi, this is Yuan Liang :wave:
 
