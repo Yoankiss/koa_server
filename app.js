@@ -13,6 +13,7 @@ const {REDIS_CONF} = require('./conf/db')
 
 const users = require('./routes/users')
 const blogs = require('./routes/blogs')
+const fucks = require('./routes/fuck')
 
 // error handler
 onerror(app)
@@ -56,8 +57,9 @@ app.use(session({
 // routes
 app.use(users.routes(), users.allowedMethods())
 app.use(blogs.routes(), blogs.allowedMethods())
+app.use(fucks.routes(), fucks.allowedMethods())
 
-// error-handling
+// error-handlings
 app.on('error', (err, ctx) => {
   console.error('server error', err, ctx)
 });
