@@ -9,7 +9,7 @@
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D439734028)](https://space.bilibili.com/287285230)
 [![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dsyy11cn)](https://www.zhihu.com/people/anywayuan)
 [![Juejin](https://img.shields.io/badge/juejin-%E6%A2%81%E4%BA%88%E5%AE%89-1e80ff?logo=bytedance)](https://juejin.cn/user/817692384440520)
-[![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/Yoankiss)
+[![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/anywayuan)
 
 </p>
 
@@ -65,18 +65,18 @@ I love Front End technologys. :heart:
 
 ## Projects :computer:
 
-[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=Yoankiss&repo=vite-project)](https://github.com/Yoankiss/vite-project)
+[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=anywayuan&repo=vite-project)](https://github.com/anywayuan/vite-project)
 
-[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Yoankiss&repo=koa_server)](https://github.com/Yoankiss/koa_server)
+[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=anywayuan&repo=koa_server)](https://github.com/anywayuan/koa_server)
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=Yoankiss&repo=express_server)](https://github.com/Yoankiss/express_server)
+[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=anywayuan&repo=express_server)](https://github.com/anywayuan/express_server)
 
 ## Analysis :point_down:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoankiss&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anywayuan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://github-profile-trophy.vercel.app/?username=Yoankiss&theme=flat&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=anywayuan&theme=flat&column=7&margin-w=10)
 
 </div>
